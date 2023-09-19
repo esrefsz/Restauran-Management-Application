@@ -1,0 +1,498 @@
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\restoran.exe.config
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\restoran.exe
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\restoran.pdb
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.Properties.Resources.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.csproj.GenerateResource.cache
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.csproj.CoreCompileInputs.cache
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.exe
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.pdb
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.Form1.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmBill.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmGiris.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmKasaIslemleri.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmLock.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmMasalar.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmMenu.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmMusteriAra.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmMusteriEkleme.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmMutfak.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmPaketSiparis.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmRaporlar.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmRezervasyon.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmSetting.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmSiparis.resources
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.frmSiparisKontrol.resources
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\EnvDTE.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\stdole.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\Microsoft.MSXML.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.csproj.CopyComplete
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\restoran.csproj.AssemblyReference.cache
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\RdlCompile.cache
+C:\Users\polat\source\repos\restoran\restoran\obj\Debug\RdlCompile.compiled
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\restoran.exe.config
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\restoran.exe
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\restoran.pdb
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\EnvDTE.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\stdole.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\Microsoft.MSXML.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.csproj.AssemblyReference.cache
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.Form1.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmBill.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmGiris.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmKasaIslemleri.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmLock.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmMasalar.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmMenu.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmMusteriAra.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmMusteriEkleme.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmMutfak.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmPaketSiparis.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmRaporlar.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmRezervasyon.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmSetting.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmSiparis.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.frmSiparisKontrol.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.Properties.Resources.resources
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.csproj.GenerateResource.cache
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\RdlCompile.cache
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\RdlCompile.compiled
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.csproj.CoreCompileInputs.cache
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.csproj.CopyComplete
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.exe
+D:\Atatürk Üniversitesi\Staj\repos\restoran\restoran\obj\Debug\restoran.pdb
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\restoran.exe.config
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\restoran.exe
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\restoran.pdb
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\EnvDTE.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\stdole.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\Microsoft.MSXML.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.csproj.AssemblyReference.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.csproj.SuggestedBindingRedirects.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.Form1.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmBill.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmGiris.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmKasaIslemleri.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmLock.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmMasalar.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmMenu.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmMusteriAra.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmMusteriEkleme.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmMutfak.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmPaketSiparis.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmRaporlar.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmRezervasyon.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmSetting.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmSiparis.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.frmSiparisKontrol.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.Properties.Resources.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.csproj.GenerateResource.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.csproj.CoreCompileInputs.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.csproj.CopyComplete
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.exe
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\MuhammedPolat C#\RestoranOtomasyonu-main\restoran\obj\Debug\restoran.pdb
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\restoran.exe.config
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\restoran.exe
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\restoran.pdb
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\EnvDTE.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\stdole.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.AssemblyReference.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.SuggestedBindingRedirects.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.Form1.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmBill.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmGiris.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmKasaIslemleri.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmLock.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMasalar.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMenu.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMusteriAra.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMusteriEkleme.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMutfak.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmPaketSiparis.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmRaporlar.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmRezervasyon.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmSetting.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmSiparis.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmSiparisKontrol.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.Properties.Resources.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.GenerateResource.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.CoreCompileInputs.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.CopyComplete
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.exe
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C#\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.pdb
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\restoran.exe.config
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\restoran.exe
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\restoran.pdb
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\EnvDTE.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\stdole.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.csproj.AssemblyReference.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.csproj.SuggestedBindingRedirects.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.Form1.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmBill.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmGiris.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmKasaIslemleri.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmLock.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmMasalar.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmMenu.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmMusteriAra.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmMusteriEkleme.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmMutfak.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmPaketSiparis.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmRaporlar.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmRezervasyon.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmSetting.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmSiparis.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.frmSiparisKontrol.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.Properties.Resources.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.csproj.GenerateResource.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.csproj.CoreCompileInputs.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.csproj.CopyComplete
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.exe
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\Restorant Otomasyonu APOLET CAFE (YEDEK)\restoran\obj\Debug\restoran.pdb
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.AssemblyReference.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.SuggestedBindingRedirects.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.Form1.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmBill.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmGiris.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmKasaIslemleri.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmLock.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMasalar.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMenu.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMusteriAra.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMusteriEkleme.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmMutfak.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmPaketSiparis.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmRaporlar.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmRezervasyon.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmSetting.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmSiparis.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.frmSiparisKontrol.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.Properties.Resources.resources
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.GenerateResource.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.CoreCompileInputs.cache
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\restoran.exe.config
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\restoran.exe
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\restoran.pdb
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\EnvDTE.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\stdole.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.csproj.CopyComplete
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.exe
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.pdb
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\restoran.exe.manifest
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\bin\Debug\restoran.application
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.exe.manifest
+C:\Users\esref\Desktop\İşler Güçler\Mühendislik Genel\Programlama Projeler\Adison Uygulaması\C# Code\Restorant Otomasyonu APOLET CAFE\restoran\obj\Debug\restoran.application

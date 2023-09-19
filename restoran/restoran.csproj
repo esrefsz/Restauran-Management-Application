@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0DAC2C44-BA4C-46AF-8437-C15127E9654E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>restoran</RootNamespace>
+    <AssemblyName>restoran</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>tr-TR</TargetCulture>
+    <PublisherName>ApoletCafeYazılım</PublisherName>
+    <TrustUrlParameters>true</TrustUrlParameters>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Apolet-logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9D8EAC5B7F4852A776826AEDAFBA5FDFBCD2427E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>restoran_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1440.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cAdisyon.cs" />
+    <Compile Include="cGenel.cs" />
+    <Compile Include="cMasalar.cs" />
+    <Compile Include="cMusteriler.cs" />
+    <Compile Include="cOdeme.cs" />
+    <Compile Include="cPaketler.cs" />
+    <Compile Include="cPersonelGorev.cs" />
+    <Compile Include="cPersonelHareketleri.cs" />
+    <Compile Include="cPersoneller.cs" />
+    <Compile Include="cRezervasyon.cs" />
+    <Compile Include="cSiparis.cs" />
+    <Compile Include="cUrunCesitleri.cs" />
+    <Compile Include="cUrunler.cs" />
+    <Compile Include="DataSetReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBill.Designer.cs">
+      <DependentUpon>frmBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKasaIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKasaIslemleri.Designer.cs">
+      <DependentUpon>frmKasaIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLock.Designer.cs">
+      <DependentUpon>frmLock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMasalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMasalar.Designer.cs">
+      <DependentUpon>frmMasalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteriAra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteriAra.Designer.cs">
+      <DependentUpon>frmMusteriAra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMusteriEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMusteriEkleme.Designer.cs">
+      <DependentUpon>frmMusteriEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMutfak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMutfak.Designer.cs">
+      <DependentUpon>frmMutfak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaketSiparis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaketSiparis.Designer.cs">
+      <DependentUpon>frmPaketSiparis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRaporlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRaporlar.Designer.cs">
+      <DependentUpon>frmRaporlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRezervasyon.Designer.cs">
+      <DependentUpon>frmRezervasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetting.Designer.cs">
+      <DependentUpon>frmSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSiparis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSiparis.Designer.cs">
+      <DependentUpon>frmSiparis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSiparisKontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSiparisKontrol.Designer.cs">
+      <DependentUpon>frmSiparisKontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBill.resx">
+      <DependentUpon>frmBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKasaIslemleri.resx">
+      <DependentUpon>frmKasaIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLock.resx">
+      <DependentUpon>frmLock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMasalar.resx">
+      <DependentUpon>frmMasalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMusteriAra.resx">
+      <DependentUpon>frmMusteriAra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMusteriEkleme.resx">
+      <DependentUpon>frmMusteriEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMutfak.resx">
+      <DependentUpon>frmMutfak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaketSiparis.resx">
+      <DependentUpon>frmPaketSiparis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRaporlar.resx">
+      <DependentUpon>frmRaporlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRezervasyon.resx">
+      <DependentUpon>frmRezervasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetting.resx">
+      <DependentUpon>frmSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSiparis.resx">
+      <DependentUpon>frmSiparis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSiparisKontrol.resx">
+      <DependentUpon>frmSiparisKontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportAylik.rdlc" />
+    <EmbeddedResource Include="ReportGunluk.rdlc" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DataSetReport.xsc">
+      <DependentUpon>DataSetReport.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetReport.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetReport.xss">
+      <DependentUpon>DataSetReport.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="restoran_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7761780.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adisyonbul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ailab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anayemek.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arasicak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arkaplan güncel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayarlar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aylikrapor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cikis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\corbalar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Çalışma Yüzeyi 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\degistir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fastfood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geridon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hesap kapat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hesap özeti.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icecekler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iptal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kasa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaydet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kilitle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logohareketli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\makarna.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MasaAcikRezerve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MasaBos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MasaDolu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MasaRezerve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menugiris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menugiris2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menugiris3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musteriguncelle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musteriler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musterisec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mutfak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\odeme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paketservis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\raporlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rezervasyon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salata.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siparis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siparisler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tatli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Varlık 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Varlık 5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yeni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yenimusteri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zraporu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumurunler.png" />
+    <None Include="Resources\rezervasyonac.png" />
+    <None Include="Resources\geridon2.png" />
+    <None Include="Resources\rezervasyonlar.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\apoletLogo.png" />
+    <None Include="Resources\sifre.jpg" />
+    <None Include="Resources\EnteranceBackground2.jpg" />
+    <None Include="Resources\EnterangeBackground1.jpg" />
+    <None Include="Resources\MenuBackground.jpg" />
+    <None Include="Resources\MenuBackground2.jpg" />
+    <None Include="Resources\KremRengiBackground.jpg" />
+    <None Include="Resources\anaYemek1.jpg" />
+    <None Include="Resources\corba1.jpg" />
+    <None Include="Resources\fastfood1.jpg" />
+    <None Include="Resources\kahvalti1.jpg" />
+    <None Include="Resources\kahve1.jpg" />
+    <None Include="Resources\salata1.jpg" />
+    <None Include="Resources\tatli1.jpg" />
+    <None Include="Resources\anaYemek1-min.jpg" />
+    <None Include="Resources\arasıcak1-min.jpg" />
+    <None Include="Resources\corba1-min.jpg" />
+    <None Include="Resources\fastfood1-min.jpg" />
+    <None Include="Resources\kahvalti1-min.jpg" />
+    <None Include="Resources\kahve1-min.jpg" />
+    <None Include="Resources\mesrubatlar1-min.jpg" />
+    <None Include="Resources\salata1-min.jpg" />
+    <None Include="Resources\tatli1-min.jpg" />
+    <Content Include="Apolet-logo.ico" />
+    <Content Include="sqlPath.txt" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

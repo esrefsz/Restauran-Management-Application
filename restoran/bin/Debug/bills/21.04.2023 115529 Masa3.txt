@@ -1,0 +1,35 @@
+MASA 3
+----------------------------------------------------------------------
+21.04.2023 11:55:29
+APOLET KAFE RİVA
+----------------------------------------------------------------------
+Ürün Adı:                                    Adet:           Fiyat:
+IZGARA KÖFTE                                 2              260,0000
+AMERICANO                                    1              35,0000
+AMERICANO                                    1              35,0000
+AMERICANO                                    1              35,0000
+AMERICANO                                    1              35,0000
+AMERICANO                                    1              35,0000
+AMERICANO                                    1              35,0000
+AMERICANO                                    1              35,0000
+AMERICANO                                    1              35,0000
+AMERICANO                                    1              35,0000
+AMERICANO                                    1              35,0000
+CAPPICINO                                    1              37,0000
+CAPPICINO                                    1              37,0000
+CAPPICINO                                    1              37,0000
+CAPPICINO                                    1              37,0000
+IZGARA KÖFTE                                 1              130,0000
+IZGARA KÖFTE                                 1              130,0000
+IZGARA KÖFTE                                 1              130,0000
+IZGARA KÖFTE                                 1              130,0000
+FUSE TEA                                     1              25,0000
+FUSE TEA                                     1              25,0000
+MOZAİK PASTA                                 1              60,0000
+MOZAİK PASTA                                 1              60,0000
+GÜNÜN ÇORBASI                                1              45,0000
+GÜNÜN ÇORBASI                                1              45,0000
+GÜNÜN ÇORBASI                                1              45,0000
+----------------------------------------------------------------------
+Toplam Tutar     : 1583,000₺
+Odeme Turu: Nakit
